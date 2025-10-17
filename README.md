@@ -8,7 +8,15 @@ En este proyecto se implementó un perceptrón usando el paradigma de agentes de
 El propósito principal fue comprender cómo el perceptrón ajusta sus pesos durante el entrenamiento, y cómo los parámetros influyen en la velocidad y precisión del aprendizaje.
 
 ---
+### Requisitos para ejecutar el programa
 
+Para correr la simulación correctamente se necesita tener instalado:
+
+- **Python 3.10 o superior**
+- **Mesa 1.2.1 o superior**
+- Un entorno virtual 
+- Un navegador web 
+- Editor, utilice visual studio code
 ## Funcionamiento del Perceptrón
 
 <img width="652" height="389" alt="image" src="https://github.com/user-attachments/assets/86c2e19c-cd2b-4779-8139-435d64fc3929" />
