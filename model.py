@@ -157,5 +157,5 @@ class PerceptronModel(Model):
             return {"vertical": float(-self.w0 / self.w1)}
         a = - self.w1 / self.w2
         b = - self.w0 / self.w2
-        return {"a": float(a), "b": float(b)}
+        return {"a": float(a), "b": float(b)} 
 
